@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+header {
+  background-color: #333333;
+  padding: 10px;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+section {
+  padding: 20px;
+}
+form label {
+  display: block;
+  margin-top: 10px;
+}
+form input, form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #555555;
+  background-color: #222222;
+  color: #ffffff;
+}
+form button {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #444444;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+form button: hover {
+  background-color: #555555;
+}
