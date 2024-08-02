@@ -48,3 +48,19 @@ form button {
 form button: hover {
   background-color: #555555;
 }
+.project {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+.project h2 {
+  color: #333;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+.project .description {
+  color: #666;
+  font-size: 1em;
+}
